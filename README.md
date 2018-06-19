@@ -2,6 +2,7 @@
 Command line tool to display hard disk or volume information
 
 License: WTFPL
+
 Requirements: Windows 7 or newer
 
 Usage:
